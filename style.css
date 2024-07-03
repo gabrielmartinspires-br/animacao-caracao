@@ -2,6 +2,7 @@
 #coracao:checked + label > svg {
     animation: preencher;
     animation-duration: 0.5s;
+    animation-fill-mode: forwards;
 }
   
 @keyframes preencher {
