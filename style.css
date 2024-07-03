@@ -1,0 +1,10 @@
+#coracao:checked + label > svg {
+    animation: preencher;
+    animation-duration: .5s;
+}
+
+@keyframes preecher {
+    100% {
+        fill: #ff0000;
+    }
+}
