@@ -5,7 +5,9 @@
 }
   
 @keyframes preencher {
-   
+    0% {
+        fill: transparent;
+    }
     100% {
       fill: #ff0000;
     }
