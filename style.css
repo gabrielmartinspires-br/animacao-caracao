@@ -1,3 +1,6 @@
+#coracao {
+    display: none;
+}
 
 #coracao:checked + label > svg {
     animation: preencher;
